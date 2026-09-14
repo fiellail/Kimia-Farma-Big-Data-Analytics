@@ -30,10 +30,6 @@ Beberapa variabel yang dihitung dalam proses analisis meliputi:
 - Rating cabang
 - Rating transaksi
 
-# Struktur Repository
-Kimia-Farma-Big-Data-Analytics/
-│
-├── README.md
-│
-└── sql/
-    └── Query_Table_Analysis.sql
+# Dashboard
+Link Dashboard: https://datastudio.google.com/reporting/66f64c0c-add6-488b-ac68-ced07f2f8422/page/MNp8F/edit
+
